@@ -1,0 +1,23 @@
+body{
+    background-image: url('image.jpg');
+    margin-top: 200px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 200px;
+}
+table{
+    margin-left: 550px;
+    margin-top: 60px;
+    padding: 10px;
+    transform: scale(2,2);
+}
+input[type=text]{
+    transform: scale(2,2);
+    background-color:rgba(58, 29, 126, 0.719) ;
+}
+button:hover{
+    box-shadow: rgba(124, 21, 84, 0.966) 0px 4px 27px 0px;
+    background-color:rgb(124, 21, 84, 0.966);
+    transform: scale(1,1);
+}
